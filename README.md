@@ -39,7 +39,7 @@ Open http://127.0.0.1:5000.
 
 Get a free Gemini API key at [aistudio.google.com](https://aistudio.google.com)
 — free, no credit card.
--change your_api_key to your api key in .env
+-change your_apikey_here to your api key in .env
 
 ## Committee → sources
 
