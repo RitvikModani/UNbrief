@@ -2,7 +2,9 @@
 
 MUN country research portfolios, built automatically from real UN sources.
 
-![UNBrief Screenshot](screenshot.png)
+<img width="2063" height="1568" alt="image" src="https://github.com/user-attachments/assets/38d581b5-6eb0-447b-b8fb-5a851bb8ea48" />
+<img width="975" height="1137" alt="image" src="https://github.com/user-attachments/assets/19a7831c-151f-43c0-889d-72a1594777b6" />
+
 
 ## What it does
 
@@ -35,6 +37,7 @@ Open http://127.0.0.1:5000.
 
 Get a free Gemini API key at [aistudio.google.com](https://aistudio.google.com)
 — free, no credit card.
+-change the api key in .env
 
 ## Committee → sources
 
